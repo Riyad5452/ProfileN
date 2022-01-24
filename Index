@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Personal Blog</title>
+<meta name="viewport"content="width=device-width,initial-scale=1.0">
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<link rel="stylesheet" type="text/css" href="personal_blog_css.css">
+</head>
+<body>
+<nav>
+<div class="navbar">
+<ul class="about_me">
+<li>Projects</li>
+<li>Life Style</li>
+<li>Fasion</li>
+<li>Contact</li>
+</ul>
+<ul class="follow">
+<li><i class="fab fa-instagram"></i></li>
+<li><i class="fab fa-linkedin"></i></li>
+<li><i class="fab fa-google-plus-g"></i></li>
+<li><i class="fab fa-twitter"></i></li>
+<li><i class="fab fa-facebook"></i></li>
+</ul>
+</div>
+</nav>
+<div class="container">
+<div class="website_name">
+<span>Verna.codinG</span>
+<span>↩</span>
+</div>
+<div class="full_details">
+<div class="image">
+<div class="self">
+Home Page
+</div>
+</div>
+<div class="content">
+<span>Life Style</span>
+
+<h1>
+I'm Happy This Comfortable Trend Is Still Going To Be Cool in 2021
+
+</h1>
+<div class="profile">
+<img src="Thumbnails/pic22.jpg" width="100%" height="100%">
+<span>Veran BSN</span>
+<span>July 5,2021</span>
+</div><br>
+
+<p>
+
+The model is taking about booking her latest gig,gig
+modeling WordPress underwear in the
+brand latest Perfectiy Fit campaign, which was shot by Lachian Bailey. It was sucha surreal moment cried she admitted.
+
+</p>
+<a href="#">CONTINUE READING <B> →</B>|</a>
+<ul class="follow">
+<li><i class="fab fa-facebook"></i></li>
+<li><i class="fab fa-twitter"></i></li>
+<li><i class="fab fa-google-plus-g"></i></li>
+<li><i class="fab fa-linkedin"></i></li>
+<li><i class="fab fa-instagram"></i></li>
+</ul>
+
+
+</div>
+</div>
+</div>
+</body>
+</html>
